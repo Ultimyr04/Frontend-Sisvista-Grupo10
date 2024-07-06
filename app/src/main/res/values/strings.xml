@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="usuario">Usuario</string>
+    <string name="contrasena_login">Contraseña</string>
+    <string name="confirmar_contrasena">Confirmar contraseña</string>
+    <string name="inicio_sesion">INICIAR SESION</string>
+    <string name="olvido_contrasena">¿Olvidó su contraseña?</string>
+
+    <string name="Registrarse">¿No esta registrado aún?</string>
+    <string name="Nombre_Registro">Nombres</string>
+    <string name="Apellido_Registro">Apellidos</string>
+    <string name="Ubigeo_Registro">Ubigeo</string>
+    <string name="Email_Registro">E-mail</string>
+    <string name="Telefono_Registro">Telefono</string>
+    <string name="Registrar">Registrarse</string>
+    <string name="Genero">Genero</string>
+    <string name="Femenino">Femenino</string>
+    <string name="Masculino">Masculino</string>
+    <string name="Fecha_Nacimiento">Fecha\nNacimiento</string>
+
+    <string name="Perfil">Perfil</string>
+    <string name="Seguimiento_Emocional">Seguimiento Emocional</string>
+    <string name="Lista_Piscologos">Lista Psicologos</string>
+    <string name="Contactar_Psicologos">Contactar Psicologos</string>
+    <string name="Biblioteca">Biblioteca de Recursos</string>
+    <string name="Realizar_Test">Realizar Test</string>
+
+    <string name="Test_Realizados">Test Realizados</string>
+    <string name="Contactar_Paciente">Contactar Pacientes</string>
+    <string name="Mapa">Mapa de Calor</string>
+    <string name="Realizar_Cita">Realizar Cita</string>
+    <string name="Lista_Pacientes">Lista Pacientes</string>
+    <string name="Cerrar_Sesion">Cerrar Sesión</string>
+
+
+    <string name="back_button">Back</string>
+
+    <string name="Cancelar">Cancelar</string>
+    <string name="Enviar">Enviar</string>
+
+    <string name="app_name">SISVITA</string>
+    <string name="registro">Formulario de Registro</string>
+    <string name="Menu_Paciente">MENU PACIENTE</string>
+    <string name="Menu_Psicologo">MENU PSICOLOGO</string>
+    <string name="MAPA_CALOR">MAPA DE CALOR</string>
+
+    <string name="MENU_TEST">MENU TEST</string>
+    <string name="TEST1">TEST 1</string>
+    <string name="TEST2">TEST 2</string>
+    <string name="TEST3">TEST 3</string>
+
+
+    <string name="nombre_alumno">Nombre de Alumno</string>
+    <string name="fecha_test">Fecha del Test (YYYY-MM-DD)</string>
+    <string name="ingrese_observaciones">Ingrese sus observaciones</string>
+
+</resources>
